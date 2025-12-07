@@ -1,0 +1,18 @@
+.card {
+  border: 1px solid #771377;
+  border-radius: 8px;
+  padding: 1rem;
+  background-color: #000000;
+}
+
+.paused {
+  color: #f97316;
+}
+
+.planned {
+  color: #e7d106;
+}
+
+.played {
+  color: #16be24;
+}
